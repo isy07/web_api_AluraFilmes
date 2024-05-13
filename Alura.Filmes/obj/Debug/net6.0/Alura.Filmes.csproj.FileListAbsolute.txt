@@ -1,0 +1,14 @@
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\bin\Debug\net6.0\Alura.Filmes.exe
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\bin\Debug\net6.0\Alura.Filmes.deps.json
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\bin\Debug\net6.0\Alura.Filmes.runtimeconfig.json
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\bin\Debug\net6.0\Alura.Filmes.dll
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\bin\Debug\net6.0\Alura.Filmes.pdb
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\obj\Debug\net6.0\Alura.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\obj\Debug\net6.0\Alura.Filmes.AssemblyInfoInputs.cache
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\obj\Debug\net6.0\Alura.Filmes.AssemblyInfo.cs
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\obj\Debug\net6.0\Alura.Filmes.csproj.CoreCompileInputs.cache
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\obj\Debug\net6.0\Alura.Filmes.dll
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\obj\Debug\net6.0\refint\Alura.Filmes.dll
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\obj\Debug\net6.0\Alura.Filmes.pdb
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\obj\Debug\net6.0\Alura.Filmes.genruntimeconfig.cache
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\Alura.Filmes\Alura.Filmes\obj\Debug\net6.0\ref\Alura.Filmes.dll
